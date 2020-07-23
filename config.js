@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://2theb.netlify.com',
+  url: 'https://2theb.github.io',
   pathPrefix: '/',
   title: 'Blog by Youngmin Lee',
   subtitle: 'Hello World!',
