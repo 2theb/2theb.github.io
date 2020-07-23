@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-8c05c0cc67218f0b6888.js"
+    "url": "webpack-runtime-5c2ef4e2f8faa7ddd3a5.js"
   },
   {
     "url": "styles.5db83db345a8746542bf.css"
@@ -42,11 +42,11 @@ self.__precacheManifest = [
     "url": "532a2f07-36c395669df4dc0275d8.js"
   },
   {
-    "url": "app-a044e92187bc654414ec.js"
+    "url": "app-40226c2f6ad24106be8c.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "7494a2722392775d6cc42405dc1c9aa9"
+    "revision": "8662c1f8887cdbe37b0b5860b834c0c8"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-c9875e2473a7c518755f.js"
@@ -57,7 +57,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "1f885728f0bb17436c6628851599ac3f"
+    "revision": "7055694668bbe663b9c5ee6ef5f5c1d2"
   },
   {
     "url": "polyfill-b2290f1301185c382ad0.js"
@@ -68,7 +68,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "57cad88fa0c5cf23a6d1d3ea030fd5a0"
+    "revision": "813264902362c103fe8316c2d8595acd"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -156,12 +156,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^`), ``)
+  pathname = pathname.replace(new RegExp(`^/2theb`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-a044e92187bc654414ec.js`))) {
+  if (!resources || !(await caches.match(`/2theb/app-40226c2f6ad24106be8c.js`))) {
     return await fetch(event.request)
   }
 
@@ -174,7 +174,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/2theb/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
