@@ -21,11 +21,11 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-categories-list-template-js-e28883024731ccabe6b3.js
   Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-c077af3dc110375dcded.js
+  Cache-Control: public, max-age=31536000, immutable
 /643651a62fb35a9bb4f20061cb1f214a352d7976-12cd6796cf0ce7e3f3f5.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-template-js-641945427d20915502b2.js
-  Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-page-template-js-c077af3dc110375dcded.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-tag-template-js-e31a0234379397bbec8e.js
   Cache-Control: public, max-age=31536000, immutable
@@ -35,7 +35,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /webpack-runtime-5c2ef4e2f8faa7ddd3a5.js
   Cache-Control: public, max-age=31536000, immutable
-/framework-fb1174375948eec197a8.js
+/framework-a4620de0399b10c30110.js
   Cache-Control: public, max-age=31536000, immutable
 /532a2f07-36c395669df4dc0275d8.js
   Cache-Control: public, max-age=31536000, immutable
@@ -48,7 +48,7 @@
 /2theb/offline-plugin-app-shell-fallback/
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/component---cache-caches-gatsby-plugin-offline-app-shell-js-c9875e2473a7c518755f.js>; rel=preload; as=script
@@ -57,7 +57,7 @@
 /2theb/404
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -68,7 +68,7 @@
 /2theb/tags
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -80,7 +80,7 @@
 /2theb/categories
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -89,10 +89,44 @@
   Link: </2theb/component---src-templates-categories-list-template-js-e28883024731ccabe6b3.js>; rel=preload; as=script
   Link: </2theb/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </2theb/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/2theb/pages/contacts/
+  Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
+  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
+  Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
+  Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
+  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </2theb/cd95ea5cbd2c605f26db819f07999610c9ff4310-7ce088639ca1af3a95bb.js>; rel=preload; as=script
+  Link: </2theb/component---src-templates-page-template-js-c077af3dc110375dcded.js>; rel=preload; as=script
+  Link: </2theb/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2theb/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+/2theb/pages/about/
+  Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
+  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
+  Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
+  Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
+  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </2theb/cd95ea5cbd2c605f26db819f07999610c9ff4310-7ce088639ca1af3a95bb.js>; rel=preload; as=script
+  Link: </2theb/component---src-templates-page-template-js-c077af3dc110375dcded.js>; rel=preload; as=script
+  Link: </2theb/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2theb/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/2theb/posts/a-brief-history-of-typography
+  Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
+  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
+  Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
+  Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
+  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </2theb/cd95ea5cbd2c605f26db819f07999610c9ff4310-7ce088639ca1af3a95bb.js>; rel=preload; as=script
+  Link: </2theb/643651a62fb35a9bb4f20061cb1f214a352d7976-12cd6796cf0ce7e3f3f5.js>; rel=preload; as=script
+  Link: </2theb/component---src-templates-post-template-js-641945427d20915502b2.js>; rel=preload; as=script
+  Link: </2theb/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2theb/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
 /2theb/posts/perfecting-the-art-of-perfection
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -104,7 +138,7 @@
 /2theb/posts/the-origins-of-social-stationery-lettering
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -116,7 +150,7 @@
 /2theb/posts/the-birth-of-movable-type
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -128,7 +162,7 @@
 /2theb/posts/humane-typography-in-the-digital-age
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -137,44 +171,10 @@
   Link: </2theb/component---src-templates-post-template-js-641945427d20915502b2.js>; rel=preload; as=script
   Link: </2theb/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </2theb/page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
-/2theb/posts/a-brief-history-of-typography
-  Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
-  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
-  Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
-  Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
-  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/cd95ea5cbd2c605f26db819f07999610c9ff4310-7ce088639ca1af3a95bb.js>; rel=preload; as=script
-  Link: </2theb/643651a62fb35a9bb4f20061cb1f214a352d7976-12cd6796cf0ce7e3f3f5.js>; rel=preload; as=script
-  Link: </2theb/component---src-templates-post-template-js-641945427d20915502b2.js>; rel=preload; as=script
-  Link: </2theb/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </2theb/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/2theb/pages/about/
-  Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
-  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
-  Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
-  Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
-  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/cd95ea5cbd2c605f26db819f07999610c9ff4310-7ce088639ca1af3a95bb.js>; rel=preload; as=script
-  Link: </2theb/component---src-templates-page-template-js-c077af3dc110375dcded.js>; rel=preload; as=script
-  Link: </2theb/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </2theb/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
-/2theb/pages/contacts/
-  Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
-  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
-  Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
-  Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
-  Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/cd95ea5cbd2c605f26db819f07999610c9ff4310-7ce088639ca1af3a95bb.js>; rel=preload; as=script
-  Link: </2theb/component---src-templates-page-template-js-c077af3dc110375dcded.js>; rel=preload; as=script
-  Link: </2theb/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </2theb/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
 /2theb/tag/design
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -186,7 +186,7 @@
 /2theb/tag/gatsby
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -198,7 +198,7 @@
 /2theb/tag/handwriting
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -210,7 +210,7 @@
 /2theb/tag/helvetica
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -222,7 +222,7 @@
 /2theb/tag/history-of-typography
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -234,7 +234,7 @@
 /2theb/tag/learning-to-write
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -246,7 +246,7 @@
 /2theb/tag/linotype
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -258,7 +258,7 @@
 /2theb/tag/monotype
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -270,7 +270,7 @@
 /2theb/tag/open-source
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -282,7 +282,7 @@
 /2theb/tag/typography
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -294,7 +294,7 @@
 /2theb/tag/web-development
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -306,7 +306,7 @@
 /2theb/category/design-culture
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -318,7 +318,7 @@
 /2theb/category/design-inspiration
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -330,7 +330,7 @@
 /2theb/category/typography
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -342,7 +342,7 @@
 /2theb/
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -354,7 +354,7 @@
 /2theb/page/1
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -366,7 +366,7 @@
 /2theb/404.html
   Link: </2theb/webpack-runtime-5c2ef4e2f8faa7ddd3a5.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </2theb/framework-fb1174375948eec197a8.js>; rel=preload; as=script
+  Link: </2theb/framework-a4620de0399b10c30110.js>; rel=preload; as=script
   Link: </2theb/532a2f07-36c395669df4dc0275d8.js>; rel=preload; as=script
   Link: </2theb/app-40226c2f6ad24106be8c.js>; rel=preload; as=script
   Link: </2theb/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
